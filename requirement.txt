@@ -1,5 +1,6 @@
 numpy
 scikit-learn
 streamlit
-streamlit-option-menu
+streamlit_option_menu
+
 
